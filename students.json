@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"student"},
+{"type":"table","name":"students","database":"student","data":
+[
+{"Student_photo":"https:\/\/scontent.fcai1-2.fna.fbcdn.net\/v\/t39.30808-1\/270592279_3165225983710626_4729736676410941170_n.jpg?stp=dst-jpg_p160x160&_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGoPIVa62GCVryQjrF_ze4PLu9BNf3N1W4u70E1_c3Vbm_ncooTFIbfTWKajzGGIh-DBPkH8Sj43rAlJN1pYs1v&_nc_ohc=BU8hfjNPh3UAX8HjZy6&_nc_ht=scontent.fcai1-2.fna&oh=00_AT_M3fqA85kz9J8BBR5JFQ2bV29Enx63oM2iEFbqy1W5ng&oe=6261C20C","Student_id":"41510118","first_name":"sayed","last_name":"mohamed","email":"sayed@gmail.com","data_of_birth":"1997-07-20","Graduation_year":"2019"},
+{"Student_photo":"https:\/\/scontent.fcai1-2.fna.fbcdn.net\/v\/t39.30808-6\/273776025_4924932660889629_8877953776332702836_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHuS63H8gkM1WJonXFixhc2IMgsap51IkggyCxqnnUiSIoFFAHZbqr63Vj7IsBw_ZXKpeRpWWbigwFMSck-RKU3&_nc_ohc=xHSjDnuqWPMAX9Qo6Y9&_nc_ht=scontent.fcai1-2.fna&oh=00_AT-PFQYZsfglvbgRHvYlkHjh5k3pn1ls-xmkE4jlVPTSog&oe=62623203","Student_id":"41510120","first_name":"Ahmed","last_name":"Jeka","email":"Ahmed@gmail","data_of_birth":"1992-02-25","Graduation_year":"2019"},
+{"Student_photo":"https:\/\/scontent.fcai1-2.fna.fbcdn.net\/v\/t1.6435-1\/115770938_2968993956556046_8466730691528973353_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHjClVFxG0XkB9TAElhDACQkq8BI5f_7yOSrwEjl__vIx5-qvNBMyCYGHhO6DQeZFewyphBB9Mc3AfphecdQjCa&_nc_ohc=NhgLt9CxA0cAX-gOwBH&_nc_ht=scontent.fcai1-2.fna&oh=00_AT8JCGR4tFj1hgeIUyulUbMvcd560rAgu9VJh7wZDatYXA&oe=6281B667","Student_id":"41510121","first_name":"Abdulrahman ","last_name":"Muhammed","email":"Body@gmail.com","data_of_birth":"1995-05-10","Graduation_year":"2019"}
+]
+}
+]
